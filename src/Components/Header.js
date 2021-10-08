@@ -43,6 +43,7 @@ const Nav = styled.div`
     display: flex;
     align-items: center;
     padding: 0 36px;
+    overflow-x: hidden;
 `
 const Logo =styled.img`
     width: 80px;
@@ -74,7 +75,7 @@ const NavMenu=styled.div`
                 bottom: -6px;
                 opacity: 0;
                 transform-origin: left center;
-                transition: all 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s; // important transition
+                transition: all 250ms cubic-bezier(0.20, 0.30, 0.30, 0.10) 0s; // important transition
                 transform: scaleX(0);
             }
         }
