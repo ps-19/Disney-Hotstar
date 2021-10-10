@@ -2,12 +2,14 @@ import React from 'react';
 import style from 'styled-components';
 import ImgSlider from './ImgSlider';
 import Viewers from './Viewers';
+import Movies from './Movies';
 
 function Home() {
     return (
         <Container>
             <ImgSlider />
-            <Viewers /> 
+            <Viewers />
+            <Movies />
         </Container>
     )
 }
