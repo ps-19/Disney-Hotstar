@@ -33,7 +33,7 @@ const Viewers = (props) => {
       <Wrap>
       <img src="/images/viewers-national.png" alt="" />
       <video autoPlay={true} loop={true} playsInline={true}>
-      <source src="/videos/1608229455-star-wars.mp4" type="video/mp4" />
+      <source src="/videos/1564676296-national-geographic.mp4" type="video/mp4" />
         </video>
       </Wrap>
     </Container>
