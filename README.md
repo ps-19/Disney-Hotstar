@@ -6,11 +6,21 @@ https://disney-hotstar-react.web.app
 
 ![5](https://user-images.githubusercontent.com/63330165/136735232-b9be00b4-63cb-4c43-affc-4faeab6d690d.jpg)
 
+![3](https://user-images.githubusercontent.com/63330165/136823726-4e6b8398-092a-4405-914f-14e9f9a84b56.jpg)
+
+![1](https://user-images.githubusercontent.com/63330165/136823954-1aabe19f-f38b-4cc5-b967-8420d7fb7894.jpg)
+
+![2](https://user-images.githubusercontent.com/63330165/136824068-21f0482f-766b-4d00-9a2a-9b9c9929f58c.jpg)
+
+![4](https://user-images.githubusercontent.com/63330165/136824400-620bea1a-b959-48de-a25c-f9cca0cb7ba6.jpg)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `yarn start`
 
@@ -21,6 +31,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### `yarn test`
+
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
