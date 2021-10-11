@@ -1,4 +1,6 @@
 
+Project is OPEN SOURCE. Feel Free submit PR and raise issues.
+
 https://disney-hotstar-react.web.app
 
 
