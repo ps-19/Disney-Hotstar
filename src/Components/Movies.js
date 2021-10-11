@@ -59,16 +59,16 @@ function movies() {
             For Kids
             <Content>
                 <Bucket>
-                    <img src="/images/Kid1.jpg" />
+                    <img src="/images/Original1.jpg" />
                 </Bucket>
                 <Bucket>
-                    <img src="/images/Kid2.jpg" />
+                    <img src="/images/Original2.jpg" />
                 </Bucket>
                 <Bucket>
-                    <img src="/images/Kid3.jpg" />
+                    <img src="/images/Original3.jpg" />
                 </Bucket>
                 <Bucket>
-                    <img src="/images/Kid4.webp" />
+                    <img src="/images/Original4.webp" />
                 </Bucket>
             </Content>
             </kk>
