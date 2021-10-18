@@ -17,7 +17,9 @@ https://disney-hotstar-react.web.app
 ![4](https://user-images.githubusercontent.com/63330165/136824400-620bea1a-b959-48de-a25c-f9cca0cb7ba6.jpg)
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template. 
+
+**Working on backend of the project right now using NodeJS.**
 
 ## Available Scripts
 
